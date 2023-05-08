@@ -8,4 +8,3 @@ import './possibility.css'
   )
 }
 export default Possibility
-Possibility

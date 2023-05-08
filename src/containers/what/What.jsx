@@ -8,4 +8,3 @@ import './what.css'
   )
 }
 export default What
-What
