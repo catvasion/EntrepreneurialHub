@@ -9,7 +9,7 @@ import {Feature} from '../../components'
         <Feature />
       </div>
       <div className='company__what-heading'>
-        <h1 className='gradient-text'>“It's the job that's never started as takes longest to finish.”</h1>
+        <h1 className='gradient__text'>“It's the job that's never started as takes longest to finish.”</h1>
         <p>“Even the smallest person can change the course of the future.”</p>
       </div>
       <div className='company__what-container'>
