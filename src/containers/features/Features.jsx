@@ -23,7 +23,7 @@ const featuresData = [
 
  const Features = () => {
   return (
-    <div className='what__features section__padding' id='features'>
+    <div className='company__features section__padding' id='features'>
       <div className='company__features-heading'>
         <h1 className='gradient__text'>He wore a tall pointed blue hat, a long grey cloak, and a silver scarf.</h1>
         <p>Request an email from Gandalf.</p>      
@@ -36,4 +36,5 @@ const featuresData = [
     </div>
   )
 }
+
 export default Features
