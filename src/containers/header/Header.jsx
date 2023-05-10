@@ -9,7 +9,7 @@ import gandalfGif from '../../assets/gandalf-pixel_02.gif'
         <div className='company__header-content'>
           <h1 
           className='gradient__text'>
-          He wore a tall pointed blue hat, a long grey cloak, and a silver scarf.</h1>
+          {He wore a tall pointed blue hat, a long grey cloak, and a silver scarf.}</h1>
           <p>“All we have to decide is what to do with the time that is given us.”</p>
           <div className='company__header-content__input'>
             <input
