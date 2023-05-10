@@ -1,15 +1,15 @@
 import React, {useState} from 'react'
 import {RiMenu3Line, RiCloseLine} from 'react-icons/ri'
-import logo from '../../assets/logo.svg'
+import eye from '../../assets/eye-pixel.png'
 import './navbar.css'
 
 const Menu = () => (
   <>
   <p><a href='#home'>Home</a></p>
-  <p><a href='#what'>What is Company?</a></p>
-  <p><a href='#possibility'>Open AI</a></p>
-  <p><a href='#features'>Case Studies</a></p>
-  <p><a href='#blog'>Library</a></p>
+  <p><a href='#what'>Who is Gandalf?</a></p>
+  <p><a href='#possibility'>LOTR</a></p>
+  <p><a href='#features'>The Hobbits</a></p>
+  <p><a href='#blog'>Quotes</a></p>
   </>
 ) 
 
@@ -19,7 +19,7 @@ const Menu = () => (
     <div className='company__navbar'>
         <div className='company__navbar-links'>
           <div className='company__navbar-links_logo'>
-            <img src={logo} alt="logo"/>
+            <img src={eye} alt="logo"/>
           </div>
           <div className='company__navbar-links_container'>
            <Menu/>

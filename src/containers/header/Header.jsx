@@ -1,7 +1,8 @@
 import React from 'react'
 import './header.css'
-import people from '../../assets/people.png'
-import ai from '../../assets/ai.png'
+import lotr from '../../assets/lotr-pixel.png'
+import gandalf from '../../assets/gandalf-pixel_02.png'
+import gandalfGif from '../../assets/gandalf-pixel_02.gif'
  const Header = () => {
   return (
     <div className='company__header section__padding' id='home'>
@@ -21,12 +22,13 @@ import ai from '../../assets/ai.png'
             </button>
           </div>
           <div className='company__header-content__people'>
-            <img src={people} alt='people'/>
+            <img src={lotr} alt='people'/>
             <p>1,600 Hobbits requested access for a visit in the last 24 hours</p>
           </div>
         </div>  
         <div className='company__header-image'>
-          <img src={ai} alt='ai' />
+          <img src={gandalf} alt='gandalf' />
+          <img src={gandalfGif} alt='gandalf moving'/>
         </div>
     </div>
   )

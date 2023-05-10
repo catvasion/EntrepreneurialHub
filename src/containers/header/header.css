@@ -102,12 +102,33 @@
     justify-content: center;
     align-items: center;
 
+    /* background-image: url('../../assets/gandalf-pixel_02.png'); */
+
 }
+
+/* .company__header-image:hover {
+    background-image: url('../../assets/gandalf-pixel_02.gif');
+    width: 100%;
+    ;
+} */
 
 .company__header-image img {
     width: 100%;
     height: 100%;
 }
+
+.company__header-image img:last-child {
+    display: none;
+}
+
+.company__header-image:hover img:last-child {
+    display: block;
+}
+
+.company__header-image:hover img:first-child {
+    display: none;
+}
+
 
 @media screen and (max-width: 1050px) {
     .company__header {
@@ -143,6 +164,14 @@
         font-size: 16px;
         line-height: 24px;
     }
+
+    .company__header-image img:first-child {
+        display: none;
+    }
+
+    .company__header-image img:last-child {
+        display: block;
+    }
  }
 
  @media screen and (max-width: 490px) {
@@ -160,5 +189,13 @@
     .company__header-content__input button {
         font-size: 12px;
         line-height: 16px;
+    }
+
+    .company__header-image img:first-child {
+        display: none;
+    }
+
+    .company__header-image img:last-child {
+        display: block;
     }
 }
