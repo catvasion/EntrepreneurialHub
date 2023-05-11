@@ -13,7 +13,6 @@
 .company__blog-container_article-image {
     width: 100%;
     height: 100%;
-    margin-top: 1.5rem;
 
     background: var(--color-footer);
     display: flex;
