@@ -6,7 +6,7 @@ import {blog01, blog02, blog03, blog04, blog05} from './imports.js'
   return (
     <div className='company__blog section__padding' id="blog">
         <div className='company__blog-heading'>
-          <h1 className='gradient__text'>Curious about the hobbits? Gandalf does like to blog!</h1>
+          <h1 className='gradient__text'>Check out our hobbit blog "The Shire Times"</h1>
         </div>
         <div className='company__blog-container'>
           <div className='company__blog-container_groupA'>
