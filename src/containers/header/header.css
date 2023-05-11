@@ -102,15 +102,9 @@
     justify-content: center;
     align-items: center;
 
-    /* background-image: url('../../assets/gandalf-pixel_02.png'); */
 
 }
 
-/* .company__header-image:hover {
-    background-image: url('../../assets/gandalf-pixel_02.gif');
-    width: 100%;
-    ;
-} */
 
 .company__header-image img {
     width: 100%;
