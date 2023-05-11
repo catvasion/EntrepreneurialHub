@@ -7,7 +7,7 @@ import './cta.css'
           <p>Request your own staff!</p>
           <h3>Register today and get a special Gandalf discount</h3>
         </div>
-        <div className='company__cta-button'>
+        <div className='company__cta-btn'>
           <button type='button'>Get Started!</button>        
         </div>
     </div>
