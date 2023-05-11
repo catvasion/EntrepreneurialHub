@@ -10,11 +10,11 @@ import logo from '../../assets/eye-pixel.png'
         <div className='company__footer-btn'>
           <p>Request early for a viewing!</p>
         </div>
-        <div className='company__footer-links'>
           <div className='company__footer-links_logo'>
             <img src={logo} alt='logo'/>
-            <p>Middle-earth, All rights reserved by Sauron.</p>
+            {/* <p>Middle-earth, All rights reserved by Sauron.</p> */}
           </div>
+          <div className='company__footer-links'>
           <div className='company__footer-links_div'>
             <h4>Locations</h4>
             <p>Minas Tirith</p>
@@ -34,7 +34,7 @@ import logo from '../../assets/eye-pixel.png'
             <h4>Contact us</h4>
             <p>Middle Earth</p>
             <p>WhatsApp +44 1954 002907</p>
-            <p>SauronEyeTours@tourism-middle-earth.co.uk</p>
+            <p>sauroneyetours@tourism-middle-earth.co.uk</p>
           </div>
         </div>
 

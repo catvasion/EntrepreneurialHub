@@ -12,14 +12,13 @@ import {blog01, blog02, blog03, blog04, blog05} from './imports.js'
           <div className='company__blog-container_groupA'>
             <Article imgUrl={blog01} date="the First Age" title="The Fellowship of the Ring"/>
           </div>
-          <div className='company__blog-container'>
+          
           <div className='company__blog-container_groupB'>
             <Article imgUrl={blog02} date="the First Age" title="The Fellowship of the Ring"/>
             <Article imgUrl={blog03} date="the First Age" title="The Fellowship of the Ring"/>
             <Article imgUrl={blog04} date="the First Age" title="The Fellowship of the Ring"/>
             <Article imgUrl={blog05} date="the First Age" title="The Fellowship of the Ring"/>
           </div>
-        </div>
       </div>
     </div>
   )
