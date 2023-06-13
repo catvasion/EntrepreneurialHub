@@ -40,6 +40,7 @@
 
 .company__possibility-content h4:last-child {
     color: #ff8a71;
+    cursor: pointer;
 }
 
 .company__possibility-content h1 {

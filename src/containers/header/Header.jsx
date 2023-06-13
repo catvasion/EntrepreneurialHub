@@ -9,8 +9,8 @@ import gandalfGif from '../../assets/gandalf-pixel_02.gif'
         <div className='company__header-content'>
           <h1 
           className='gradient__text'>
-          He wore a tall pointed blue hat, a long grey cloak, and a silver scarf.</h1>
-          <p>“All we have to decide is what to do with the time that is given us.”</p>
+          Welcome to Middle-earth's Entrepreneurial Hub</h1>
+          <p>Embark on an Entrepreneurial Adventure in Middle-earth</p>
           <div className='company__header-content__input'>
             <input
               type="email"
@@ -18,12 +18,12 @@ import gandalfGif from '../../assets/gandalf-pixel_02.gif'
             </input>
             <button
               type='button'>
-            Get Started 
+            Get Started
             </button>
           </div>
           <div className='company__header-content__people'>
             <img src={lotr} alt='people'/>
-            <p>1,600 Hobbits requested access for a visit in the last 24 hours</p>
+            <p>Join our Thriving Community</p>
           </div>
         </div>  
         <div className='company__header-image'>
