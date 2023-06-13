@@ -3,6 +3,7 @@ import './header.css'
 import lotr from '../../assets/lotr-pixel.png'
 import gandalf from '../../assets/gandalf-pixel_02.png'
 import gandalfGif from '../../assets/gandalf-pixel_02.gif'
+import gandalf_computer from '../../assets/gandalf_computer.png'
  const Header = () => {
   return (
     <div className='company__header section__padding' id='home'>
@@ -23,12 +24,11 @@ import gandalfGif from '../../assets/gandalf-pixel_02.gif'
           </div>
           <div className='company__header-content__people'>
             <img src={lotr} alt='people'/>
-            <p>Join our Thriving Community</p>
+            <p>Join our Thriving Community!</p>
           </div>
         </div>  
         <div className='company__header-image'>
-          <img src={gandalf} alt='gandalf' />
-          <img src={gandalfGif} alt='gandalf moving'/>
+          <img src={gandalf_computer} alt='gandalf' />
         </div>
     </div>
   )

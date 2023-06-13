@@ -41,6 +41,16 @@
 .company__possibility-content h4:last-child {
     color: #ff8a71;
     cursor: pointer;
+
+    transition: 0.1s;
+}
+
+/* .company__possibility-content h4:last-child:hover {
+    opacity: 0.8;
+} */
+
+.company__possibility-content h4:last-child:active {
+    opacity: 0.85;
 }
 
 .company__possibility-content h1 {

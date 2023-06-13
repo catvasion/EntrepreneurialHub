@@ -20,7 +20,7 @@ const Brands = [
 
 const Brand = () => {
   return (
-    <div className='company__brand '>
+    <div className='company__brand'>
       
        {
         Brands.map(brand => (

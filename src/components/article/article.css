@@ -54,7 +54,12 @@
 
 .company__blog-container_article-content p:last-child {
     cursor: pointer;
+    transition: 0.1s;
 
+}
+
+.company__blog-container_article-content p:last-child:hover {
+    opacity: 0.7;
 }
 
 @media screen and (max-width:550px) {
