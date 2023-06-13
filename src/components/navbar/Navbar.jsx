@@ -5,11 +5,11 @@ import './navbar.css'
 
 const Menu = () => (
   <>
-  <p><a href='#home'>Home</a></p>
-  <p><a href='#what'>Who is Gandalf?</a></p>
-  <p><a href='#possibility'>LOTR</a></p>
-  <p><a href='#features'>The Hobbits</a></p>
-  <p><a href='#blog'>Quotes</a></p>
+  <p><a href='#home'>Entrepreneurial Hub</a></p>
+  <p><a href='#what'>Wizardry for Entrepreneurs</a></p>
+  <p><a href='#possibility'>Opportunities in Gondor</a></p>
+  <p><a href='#features'>Hobbit Enterprises</a></p>
+  <p><a href='#blog'>Entrepreneurial Chronicles</a></p>
   </>
 ) 
 
@@ -26,8 +26,8 @@ const Menu = () => (
           </div>
         </div>
         <div className='company__navbar-sign'>
-          <p>Sign in</p>
-          <button type='button'>Sign up</button>
+          <p>Login</p>
+          
         </div>
         <div className='company__navbar-menu'>
           {toggleMenu 
@@ -36,14 +36,14 @@ const Menu = () => (
           }
           {toggleMenu && (
             <div className='company__navbar-menu_container scale-up-center'>
-              <div className='company__navbar-menu-container-links'>
+            <div className='company__navbar-menu-container-links'>
               <Menu/>
+              <span className="company__navbar-divider"></span>
               <div className='company__navbar-menu_container-links-sign'>
                 <p>Sign in</p>
-                <button type='button'>Sign up</button>
-              </div>
               </div>
             </div>
+          </div>
           )}
         </div>
     </div>

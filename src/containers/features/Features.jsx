@@ -1,40 +1,40 @@
-import React from 'react'
-import './features.css'
-import { Feature } from '../../components'
+import React from 'react';
+import './features.css';
+import { Feature } from '../../components';
 
 const featuresData = [
   {
-    title: 'Improving the life of all hobbits',
-    text: 'In the shire the hobbits smoke the pipe and drink ale.'
+    title: 'Improving the life of hobbits',
+    text: 'Bringing mirth and camaraderie to the Shire through pipe-smoking and ale-drinking.'
   },
   {
-    title: 'Improving the life of all elves',
-    text: 'In the rivendell the elves smile because they live for a long long time.'
+    title: 'Enriching the lives of elves',
+    text: 'Radiating everlasting joy in Rivendell, where time holds no boundaries.'
   },
   {
-    title: 'Improving the life of all dwarfs',
-    text: 'In the tunnels the dwarfs dig deep and mine for mithril.',
+    title: 'Elevating the lives of dwarfs',
+    text: 'Unearthing treasures of mithril as dwarfs delve deep into the tunnels.'
   },
   {
-    title: 'Improving the life of all people',
-    text: 'In Gondor they are happy because Aragorn is their king.'
+    title: 'Spreading happiness among all',
+    text: 'Fostering contentment in Gondor through the reign of King Aragorn.'
   },
-]
+];
 
- const Features = () => {
+const Features = () => {
   return (
     <div className='company__features section__padding' id='features'>
       <div className='company__features-heading'>
-        <h1 className='gradient__text'>He wore a tall pointed blue hat, a long grey cloak, and a silver scarf.</h1>
-        <p>Request an email from Gandalf.</p>      
-      </div> 
+        <h1 className='gradient__text'>Empowering Middle-earth's Free Peoples</h1>
+        <p>Bringing Prosperity and Joy to All</p>
+      </div>
       <div className='company__features-container'>
-        {featuresData.map((item, index) => 
-          <Feature title={item.title} text={item.text} key={item.title + index}/>
-        )}
+        {featuresData.map((item, index) => (
+          <Feature title={item.title} text={item.text} key={item.title + index} />
+        ))}
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default Features
+export default Features;

@@ -1,8 +1,9 @@
 .company__brand {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
+    padding: 1rem 6rem;
 }
 
 .company__brand div {
@@ -14,4 +15,33 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.company__brand img {
+    width: 165px;
+    justify-content: space-evenly;
+    opacity: .5;
+}
+
+/* .company__brand div {
+    
+} */ 
+
+@media screen and (max-width:800px) {
+    
+    .company__brand img {
+        width: 120px;
+        justify-content: space-evenly;
+        opacity: .5;
+    }
+}
+
+@media screen and (max-width:583px) {
+    
+    .company__brand {
+        flex-direction: column;
+    }
+    .company__brand div {
+        justify-content: center;
+    }
 }

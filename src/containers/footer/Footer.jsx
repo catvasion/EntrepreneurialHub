@@ -16,11 +16,11 @@ import logo from '../../assets/eye-pixel.png'
           </div>
           <div className='company__footer-links'>
           <div className='company__footer-links_div'>
-            <h4>Locations</h4>
-            <p>Minas Tirith</p>
-            <p>Minas Morgul</p>
-            <p>Osgiliath</p>
-            <p>Bree</p>
+            <h4>Destinations</h4>
+            <p>The Shire</p>
+            <p>Rivendell</p>
+            <p>Moria</p>
+            <p>Gondor</p>
           </div>
 
           <div className='company__footer-links_div'>
@@ -34,12 +34,12 @@ import logo from '../../assets/eye-pixel.png'
             <h4>Contact us</h4>
             <p>Middle Earth</p>
             <p>WhatsApp +44 1954 002907</p>
-            <p>sauroneyetours@tourism-middle-earth.co.uk</p>
+            <p>sauroneyetours@tourism.middle.earth</p>
           </div>
         </div>
 
         <div className='company__footer-copyright'>
-          <p>&copy; 1955 Middle-earth, All rights reserved by Sauron.</p>
+          <p>&copy; 2023 Middle-earth, All rights reserved by Sauron.</p>
         </div>
     </div>
   )
