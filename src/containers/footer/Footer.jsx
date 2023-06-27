@@ -1,7 +1,9 @@
 import React from 'react'
 import './footer.css'
 import logo from '../../assets/eye-pixel.png'
- const Footer = () => {
+
+
+const Footer = () => {
   return (
     <div className='company__footer section__padding'>
         <div className='company__footer-heading'>

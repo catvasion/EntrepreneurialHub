@@ -51,6 +51,12 @@
     min-width: 150px;
     
     color: #ffffff;
+
+    transition: 0.1s;
+}
+
+.company__cta-btn button:hover {
+    opacity: 0.9;
 }
 
 @media screen and (max-width:650px) {

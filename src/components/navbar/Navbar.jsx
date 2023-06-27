@@ -19,14 +19,14 @@ const Menu = () => (
     <div className='company__navbar'>
         <div className='company__navbar-links'>
           <div className='company__navbar-links_logo'>
-            <img src={eye} alt="logo"/>
+            <a href='#home'><img src={eye} alt="logo"/></a>
           </div>
           <div className='company__navbar-links_container'>
            <Menu/>
           </div>
         </div>
         <div className='company__navbar-sign'>
-          <p>Login</p>
+          <p type='button'>Login</p>
           
         </div>
         <div className='company__navbar-menu'>
@@ -40,7 +40,7 @@ const Menu = () => (
               <Menu/>
               <span className="company__navbar-divider"></span>
               <div className='company__navbar-menu_container-links-sign'>
-                <p>Sign in</p>
+                <p type='button'>Login</p>
               </div>
             </div>
           </div>

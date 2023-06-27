@@ -1,6 +1,7 @@
 .company__header {
     display: flex;
-    font-family: var(--font-family)
+    font-family: var(--font-family);
+    align-items: center;
 }
 
 .company__header-content {
@@ -70,6 +71,12 @@
     
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
+
+    transition: 0.1s;
+}
+
+.company__header-content__input button:hover {
+    opacity: 0.9;
 }
 
 .company__header-content__people {
@@ -94,6 +101,13 @@
     line-height: 38px;
     color: #ffffff;
     text-align: center;   
+
+    cursor: pointer;
+    transition: 0.15s;
+}
+
+.company__header-content__people p:active {
+    opacity: 0.9;
 }
 
 .company__header-image {
@@ -101,17 +115,15 @@
     display: flex;
     justify-content: center;
     align-items: center;
-
-
+    width: 700px;
 }
 
 
 .company__header-image img {
     width: 100%;
-    height: 100%;
 }
 
-.company__header-image img:last-child {
+/* .company__header-image img:last-child {
     display: none;
 }
 
@@ -121,18 +133,22 @@
 
 .company__header-image:hover img:first-child {
     display: none;
-}
+} */
 
 
-@media screen and (max-width: 1050px) {
+@media screen and (max-width: 1250px) {
     .company__header {
 
-        flex-direction: column;
+        flex-direction: column-reverse;
     }
 
     .company__header-content {
         margin: 0 0 3rem;
     }
+    .company__header-image {
+        width: 500px
+    }
+
 }
  @media screen and (max-width: 650px) {
     .company__header h1 {
@@ -158,14 +174,16 @@
         font-size: 16px;
         line-height: 24px;
     }
-
-    .company__header-image img:first-child {
+    .company__header-image {
+        width: 310px
+    }
+    /* .company__header-image img:first-child {
         display: none;
     }
 
     .company__header-image img:last-child {
         display: block;
-    }
+    } */
  }
 
  @media screen and (max-width: 490px) {
@@ -185,11 +203,11 @@
         line-height: 16px;
     }
 
-    .company__header-image img:first-child {
+    /* .company__header-image img:first-child {
         display: none;
     }
 
     .company__header-image img:last-child {
         display: block;
-    }
+    } */
 }
