@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.c487bc01.css",
+    "main.js": "./static/js/main.f3ba4f70.js",
+    "static/media/gandalf_computer.png": "./static/media/gandalf_computer.da226a8c266f09ea960f.png",
+    "static/media/gondor-tree.png": "./static/media/gondor-tree.9c0b28346150cfecf28f.png",
+    "static/media/mithriltech.png": "./static/media/mithriltech.191abff8bedaf4a65a37.png",
+    "static/media/moriasoft.png": "./static/media/moriasoft.9f99829b40c5a63bdf46.png",
+    "static/media/sauroncyber.png": "./static/media/sauroncyber.590263bfb1ef28ac7676.png",
+    "static/media/eye-pixel.png": "./static/media/eye-pixel.1eab26dcbdec51099d98.png",
+    "static/media/blog04.jpg": "./static/media/blog04.9a3c7e8174d1a35fc285.jpg",
+    "static/media/blog02.jpg": "./static/media/blog02.a900f5f1dfe45a725a8f.jpg",
+    "index.html": "./index.html",
+    "main.c487bc01.css.map": "./static/css/main.c487bc01.css.map",
+    "main.f3ba4f70.js.map": "./static/js/main.f3ba4f70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c487bc01.css",
+    "static/js/main.f3ba4f70.js"
+  ]
+}
