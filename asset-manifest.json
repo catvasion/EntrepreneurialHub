@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/EntrepreneurialHub/static/css/main.c487bc01.css",
-    "main.js": "/EntrepreneurialHub/static/js/main.a7f13382.js",
-    "static/media/gandalf_computer.png": "/EntrepreneurialHub/static/media/gandalf_computer.da226a8c266f09ea960f.png",
-    "static/media/gondor-tree.png": "/EntrepreneurialHub/static/media/gondor-tree.9c0b28346150cfecf28f.png",
-    "static/media/mithriltech.png": "/EntrepreneurialHub/static/media/mithriltech.191abff8bedaf4a65a37.png",
-    "static/media/moriasoft.png": "/EntrepreneurialHub/static/media/moriasoft.9f99829b40c5a63bdf46.png",
-    "static/media/sauroncyber.png": "/EntrepreneurialHub/static/media/sauroncyber.590263bfb1ef28ac7676.png",
-    "static/media/eye-pixel.png": "/EntrepreneurialHub/static/media/eye-pixel.1eab26dcbdec51099d98.png",
-    "static/media/blog04.jpg": "/EntrepreneurialHub/static/media/blog04.9a3c7e8174d1a35fc285.jpg",
-    "static/media/blog02.jpg": "/EntrepreneurialHub/static/media/blog02.a900f5f1dfe45a725a8f.jpg",
-    "index.html": "/EntrepreneurialHub/index.html",
-    "main.c487bc01.css.map": "/EntrepreneurialHub/static/css/main.c487bc01.css.map",
-    "main.a7f13382.js.map": "/EntrepreneurialHub/static/js/main.a7f13382.js.map"
+    "main.css": "/entrepreneurial-hub/static/css/main.c487bc01.css",
+    "main.js": "/entrepreneurial-hub/static/js/main.a9bcde09.js",
+    "static/media/gandalf_computer.png": "/entrepreneurial-hub/static/media/gandalf_computer.da226a8c266f09ea960f.png",
+    "static/media/gondor-tree.png": "/entrepreneurial-hub/static/media/gondor-tree.9c0b28346150cfecf28f.png",
+    "static/media/mithriltech.png": "/entrepreneurial-hub/static/media/mithriltech.191abff8bedaf4a65a37.png",
+    "static/media/moriasoft.png": "/entrepreneurial-hub/static/media/moriasoft.9f99829b40c5a63bdf46.png",
+    "static/media/sauroncyber.png": "/entrepreneurial-hub/static/media/sauroncyber.590263bfb1ef28ac7676.png",
+    "static/media/eye-pixel.png": "/entrepreneurial-hub/static/media/eye-pixel.1eab26dcbdec51099d98.png",
+    "static/media/blog04.jpg": "/entrepreneurial-hub/static/media/blog04.9a3c7e8174d1a35fc285.jpg",
+    "static/media/blog02.jpg": "/entrepreneurial-hub/static/media/blog02.a900f5f1dfe45a725a8f.jpg",
+    "index.html": "/entrepreneurial-hub/index.html",
+    "main.c487bc01.css.map": "/entrepreneurial-hub/static/css/main.c487bc01.css.map",
+    "main.a9bcde09.js.map": "/entrepreneurial-hub/static/js/main.a9bcde09.js.map"
   },
   "entrypoints": [
     "static/css/main.c487bc01.css",
-    "static/js/main.a7f13382.js"
+    "static/js/main.a9bcde09.js"
   ]
 }
