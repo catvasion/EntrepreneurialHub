@@ -1,6 +1,6 @@
-import React from 'react'
-import './brand.css'
-import { sauroncyber, mithriltech, moriasoft } from './imports'
+import React from "react";
+import "./brand.css";
+import { sauroncyber, mithriltech, moriasoft } from "./imports";
 
 const Brands = [
   {
@@ -15,22 +15,18 @@ const Brands = [
     company: moriasoft,
     image: moriasoft,
   },
-]
-
+];
 
 const Brand = () => {
   return (
-    <div className='company__brand'>
-      
-       {
-        Brands.map(brand => (
-          <div>
+    <div className="company__brand">
+      {Brands.map((brand, index) => (
+        <div key={index}>
           <img src={brand.image} alt={brand.company} />
-          </div>
-        ))
-       }
-       
-        {/* <div>
+        </div>
+      ))}
+
+      {/* <div>
           <img src={sauroncyber} alt='sauroncyber'/>
         </div>
 
@@ -41,11 +37,10 @@ const Brand = () => {
         <div>
           <img src={moriasoft} alt='moriasoft'/>
         </div> */}
-
     </div>
-  )
-}
-export default Brand
+  );
+};
+export default Brand;
 
 // import React from 'react'
 // import './brand.css'
