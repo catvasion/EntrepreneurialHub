@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/entrepreneurial-hub/static/css/main.c487bc01.css",
-    "main.js": "/entrepreneurial-hub/static/js/main.60201e07.js",
-    "static/media/gandalf_computer.png": "/entrepreneurial-hub/static/media/gandalf_computer.da226a8c266f09ea960f.png",
-    "static/media/gondor-tree.png": "/entrepreneurial-hub/static/media/gondor-tree.9c0b28346150cfecf28f.png",
+    "main.js": "/entrepreneurial-hub/static/js/main.6b4863f0.js",
+    "static/media/gondor-tree.png": "/entrepreneurial-hub/static/media/gondor-tree.5568177ccb5aaff3a2c7.png",
+    "static/media/gandalf_computer.png": "/entrepreneurial-hub/static/media/gandalf_computer.1467172a8cc0c7d9de4f.png",
     "static/media/mithriltech.png": "/entrepreneurial-hub/static/media/mithriltech.191abff8bedaf4a65a37.png",
     "static/media/moriasoft.png": "/entrepreneurial-hub/static/media/moriasoft.9f99829b40c5a63bdf46.png",
     "static/media/sauroncyber.png": "/entrepreneurial-hub/static/media/sauroncyber.590263bfb1ef28ac7676.png",
@@ -12,10 +12,10 @@
     "static/media/blog02.jpg": "/entrepreneurial-hub/static/media/blog02.a900f5f1dfe45a725a8f.jpg",
     "index.html": "/entrepreneurial-hub/index.html",
     "main.c487bc01.css.map": "/entrepreneurial-hub/static/css/main.c487bc01.css.map",
-    "main.60201e07.js.map": "/entrepreneurial-hub/static/js/main.60201e07.js.map"
+    "main.6b4863f0.js.map": "/entrepreneurial-hub/static/js/main.6b4863f0.js.map"
   },
   "entrypoints": [
     "static/css/main.c487bc01.css",
-    "static/js/main.60201e07.js"
+    "static/js/main.6b4863f0.js"
   ]
 }
