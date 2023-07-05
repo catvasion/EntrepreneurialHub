@@ -17,23 +17,24 @@
 
 Project Structure:
 ```sh 
-src/ # source dir
--assets/ # all public assets
--components/ # 
--containers/ 
--App.js
--App.css
--index.js
--index.css
--index.html
+src/ # Source directory
+-assets/ # All public assets
+-components/ # Components
+-containers/ # Container components
+-App.js # Main application component
+-App.css # Styling for the application
+-index.js # Entry point of the application
+-index.css # Global styles
+-index.html # HTML template for the application
 ```
 ```sh
 Sections:
--- Home: Welcome the home page of the Entreprenurial Hub. Gandalf is working away, however feel free to navigate through his page through the links.
--- Tech: Showcasing the tech companies behind middle earth's entrepreneurial mission.
--- About: An overview of Gandalf himself, feel free to read through and get to know what he is all about.
--- Oppurtunities: Browse through opportunities in Gondor 
-
+-- Home: Welcome to the home page of the Entrepreneurial Hub! Join Gandalf as he works tirelessly to build a thriving entrepreneurial community in Middle-earth. Feel free to explore the various sections and navigate through the links provided.
+-- Tech: Discover the tech companies that are driving Middle-earth's entrepreneurial mission. From magical software to enchanted hardware, learn about the innovative solutions they are bringing to the realm.
+-- About: Get to know Gandalf on a personal level. Explore his background, his experiences, and his vision for the Entrepreneurial Hub. Dive into his story and understand what makes him the wizard of entrepreneurship.
+-- Oppurtunities: Explore the vast opportunities available in Gondor. From business ventures to investment prospects, Gandalf has curated a collection of exciting opportunities for aspiring entrepreneurs. Marvel at the majestic Tree of Gondor as you envision the growth and prosperity of your own ventures.
+-- Entertainment: Take a delightful journey through the Hobbit-operated Shire Chronicles. Experience the creative and artistic side of Middle-earth's entrepreneurial community. Immerse yourself in stories, songs, and performances that capture the essence of this magical realm.
+-- Information : For all the adventurous souls of Middle-earth, this section provides links to essential destinations, company information, and contact details. Whether you seek further knowledge or wish to connect with fellow entrepreneurs, this is the place to find the information you need.
 
 ```
 ## Credits
@@ -45,5 +46,5 @@ Sections:
 ## Acknowledgements
 
 ```sh
--- Guidance for stucture and ideas from (), thank you!
+-- Guidance for stucture and ideas from (https://github.com/adrianhajdin/project_modern_ui_ux_gpt3), thank you!
 ```
