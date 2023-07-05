@@ -56,12 +56,10 @@ For all the adventurous souls of Middle-earth, this section provides links to es
 
 ## Credits
 
-```sh
 
-```
 
 ## Acknowledgements
 
-```sh
--- Guidance for stucture and ideas from (https://github.com/adrianhajdin/project_modern_ui_ux_gpt3), thank you!
-```
+
+Guidance for stucture and ideas from (https://github.com/adrianhajdin/project_modern_ui_ux_gpt3), thank you!
+
