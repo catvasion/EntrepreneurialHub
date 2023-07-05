@@ -8,7 +8,7 @@
 - [Acknowledgements](#acknowledgements)
 
 ## Introduction
-Welcome to the Entrepreneurial Hub, where Gandalf the Grey is leading the charge in bringing Middle-earth's entrepreneurial spirit to life! Join Gandalf as he harnesses the power of technology and innovation to create a thriving business ecosystem in the realm of wizards and elves.
+Welcome to the Entrepreneurial Hub, a React project built with a focus on CSS BEM (Block Element Modifier) class naming convention. Here, Gandalf the Grey leads the charge in bringing Middle-earth's entrepreneurial spirit to life! Join Gandalf as he harnesses the power of technology and innovation to create a thriving business ecosystem in the realm of wizards and elves. Experience the magic of entrepreneurship as Gandalf paves the way for a vibrant community of visionary individuals.
 
 ## Installation 
 ```sh
