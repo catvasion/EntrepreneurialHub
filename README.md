@@ -1,8 +1,8 @@
 # Entrepreneurial Hub
 
 <p align="center">
-  <img src="https://github.com/catvasion/entrepreneurial-hub/blob/main/public/screens/screen01.png" alt="preview"  height="500px">
-  <img src="https://github.com/catvasion/entrepreneurial-hub/blob/main/public/screens/screen02.png" alt="preview" height="500px" >  
+  <img src="https://github.com/catvasion/entrepreneurial-hub/blob/main/public/screens/screen01.png" alt="preview"  height="300px">
+  <img src="https://github.com/catvasion/entrepreneurial-hub/blob/main/public/screens/screen02.png" alt="preview" height="300px" >  
 </p>
 
 <div align="center">
