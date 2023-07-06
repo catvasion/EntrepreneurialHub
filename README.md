@@ -38,7 +38,7 @@ Welcome to the homepage of the Entrepreneurial Hub! Join Gandalf as he works tir
 
 #### Tech
 
-Discover the tech companies that are driving Middle-earth's entrepreneurial mission. From magical software to enchanted hardware, learn about the innovative solutions they are bringing to the realm.
+Discover the tech companies that are driving Middle-earth's entrepreneurial mission. From magical software to enchanted hardware, displayed brands are the innovative solutions they are bringing to the realm.
 
 #### About
 
