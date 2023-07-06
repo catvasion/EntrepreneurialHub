@@ -18,15 +18,17 @@ Welcome to the Entrepreneurial Hub, a React project built with a focus on CSS BE
 
 ### Project Structure:
 ```sh 
-src/ # Source directory
--assets/ # All public assets
--components/ # Components
--containers/ # Container components
--App.js # Main application component
--App.css # Styling for the application
--index.js # Entry point of the application
--index.css # Global styles
--index.html # HTML template for the application
+├── 📂 src/                     # Source directory
+│   ├── 📂 assets/              # All public assets
+│   ├── 📂 components/          # Reusable UI components
+│   ├── 📂 containers/          # Container components that orchestrate data and UI
+│   ├── App.js                  # Main application component
+│   ├── App.css                 # Styling for the application
+│   ├── index.js                # Entry point of the application
+│   ├── index.css               # Global styles
+│   └── index.html              # HTML template for the application
+└── README.md                   # Project documentation
+
 ```
 ### Sections:
 
