@@ -32,7 +32,7 @@ src/ # Source directory
 
 #### Home
 
-Welcome to the home page of the Entrepreneurial Hub! Join Gandalf as he works tirelessly to build a thriving entrepreneurial community in Middle-earth. Feel free to explore the various sections and navigate through the links provided.
+Welcome to the homepage of the Entrepreneurial Hub! Join Gandalf as he works tirelessly to build a thriving entrepreneurial community in Middle-earth. Feel free to explore the various sections and navigate through the links provided.
 
 #### Tech
 
