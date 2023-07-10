@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/entrepreneurial-hub/static/css/main.c487bc01.css",
+    "main.css": "/entrepreneurial-hub/static/css/main.eb96c445.css",
     "main.js": "/entrepreneurial-hub/static/js/main.dab686d0.js",
     "static/media/blog05.png": "/entrepreneurial-hub/static/media/blog05.3ed5e5c00934c4ecf789.png",
     "static/media/gondor-tree.png": "/entrepreneurial-hub/static/media/gondor-tree.c3d59e2b3fea85a19d71.png",
@@ -14,11 +14,11 @@
     "static/media/sauroncyber.png": "/entrepreneurial-hub/static/media/sauroncyber.590263bfb1ef28ac7676.png",
     "static/media/eye-pixel.png": "/entrepreneurial-hub/static/media/eye-pixel.1eab26dcbdec51099d98.png",
     "index.html": "/entrepreneurial-hub/index.html",
-    "main.c487bc01.css.map": "/entrepreneurial-hub/static/css/main.c487bc01.css.map",
+    "main.eb96c445.css.map": "/entrepreneurial-hub/static/css/main.eb96c445.css.map",
     "main.dab686d0.js.map": "/entrepreneurial-hub/static/js/main.dab686d0.js.map"
   },
   "entrypoints": [
-    "static/css/main.c487bc01.css",
+    "static/css/main.eb96c445.css",
     "static/js/main.dab686d0.js"
   ]
 }
