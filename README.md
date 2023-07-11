@@ -13,7 +13,6 @@
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Project Breakdown](#project-breakdown)
-- [Credits](#credits)
 - [Acknowledgements](#acknowledgements)
 
 ## Introduction
@@ -65,12 +64,8 @@ Take a delightful journey through the Hobbit-operated Shire Chronicles. Experien
 
 For all the adventurous souls of Middle-earth, this section provides links to essential destinations, company information, and contact details. Whether you seek further knowledge or wish to connect with fellow entrepreneurs, this is the place to find the information you need.
 
-## Credits
-
-
-
 ## Acknowledgements
 
 
-Guidance for stucture and ideas from (https://github.com/adrianhajdin/project_modern_ui_ux_gpt3), thank you!
+Guidance for structure and ideas from (https://github.com/adrianhajdin/project_modern_ui_ux_gpt3), thank you!
 
